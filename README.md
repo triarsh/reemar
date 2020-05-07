@@ -1,7 +1,7 @@
 Cara Pemakaian
 
 
-Start https://t.me/Reemarku_bot?start
+Start https://t.me/Reemarku_bot
 
 Termux Command 👇
  
