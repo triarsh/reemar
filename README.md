@@ -1,7 +1,7 @@
 Cara Pemakaian
 
 
-Start t.me/Reemarku_bot
+Start https://t.me/Reemarku_bot
 
 Termux Command 👇
  
@@ -17,4 +17,4 @@ cd reemar
 
 php reemar.php
 
-🅲🅾🅽🆃🅰🅲🆃 🆂🅰🆈🅰 🅳🅸 t.me/MrTamvan
+🅲🅾🅽🆃🅰🅲🆃 🆂🅰🆈🅰 🅳🅸 https://t.me/MrTamvan
